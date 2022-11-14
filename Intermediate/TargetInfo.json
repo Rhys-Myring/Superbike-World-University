@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FMP",
+			"Path": "E:\\Uni\\FMP\\Source\\FMP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FMPEditor",
+			"Path": "E:\\Uni\\FMP\\Source\\FMPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

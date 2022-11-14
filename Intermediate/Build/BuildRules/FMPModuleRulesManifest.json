@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Uni\\FMP\\Source\\FMP\\FMP.Build.cs",
+		"E:\\Uni\\FMP\\Source\\FMP.Target.cs",
+		"E:\\Uni\\FMP\\Source\\FMPEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
